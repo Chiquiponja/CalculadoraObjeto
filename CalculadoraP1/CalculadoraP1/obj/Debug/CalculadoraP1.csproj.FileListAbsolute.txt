@@ -1,0 +1,10 @@
+C:\Users\prisc\source\repos\CalculadoraP1\CalculadoraP1\obj\Debug\CalculadoraP1.csprojAssemblyReference.cache
+C:\Users\prisc\source\repos\CalculadoraP1\CalculadoraP1\obj\Debug\CalculadoraP1.Properties.Resources.resources
+C:\Users\prisc\source\repos\CalculadoraP1\CalculadoraP1\obj\Debug\CalculadoraP1.csproj.GenerateResource.cache
+C:\Users\prisc\source\repos\CalculadoraP1\CalculadoraP1\obj\Debug\CalculadoraP1.csproj.CoreCompileInputs.cache
+C:\Users\prisc\source\repos\CalculadoraP1\CalculadoraP1\bin\Debug\CalculadoraP1.exe.config
+C:\Users\prisc\source\repos\CalculadoraP1\CalculadoraP1\bin\Debug\CalculadoraP1.exe
+C:\Users\prisc\source\repos\CalculadoraP1\CalculadoraP1\bin\Debug\CalculadoraP1.pdb
+C:\Users\prisc\source\repos\CalculadoraP1\CalculadoraP1\obj\Debug\CalculadoraP1.btn.resources
+C:\Users\prisc\source\repos\CalculadoraP1\CalculadoraP1\obj\Debug\CalculadoraP1.exe
+C:\Users\prisc\source\repos\CalculadoraP1\CalculadoraP1\obj\Debug\CalculadoraP1.pdb
